@@ -11,8 +11,28 @@ Beyond the code, I’m a Capoeira instructor, DIY enthusiast, and gamer. From sc
 
 <p align="center">
   <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&count_private=true&theme=merko" />
-  <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api/top-langs/?username=arvvoid&layout=compact&count_private=true&theme=merko" />
 </p>
+
+# 🛠️ Technologies & Languages
+
+With over 20 years of experience, I’ve developed proficiency across a wide array of languages, frameworks, and infrastructure technologies. Here’s a snapshot of my primary skill set:
+
+### 💻 Programming Languages
+- **Daily Use**: C, Zig, Go, PHP, Shell Scripts, JavaScript/TypeScript
+- **Proficient**: Python, C++, C# (.NET), Odin, Rust, Swift, BASIC, Pascal/Delphi
+
+### 🌐 Other
+- **Cloud & Infrastructure Management**: 
+  - **Cloud**: Extensive experience managing cloud and hybrid infrastructures
+  - **Tools**: Custom solutions and automation for optimized workflows
+
+### 🖥️ Operating Systems
+- **Robust Knowledge**: GNU/Linux, Windows
+- **Proficiency**: macOS
+  
+---
+
+This diverse skill set allows me to seamlessly bridge development and infrastructure, creating scalable, maintainable, and robust solutions for a variety of technical challenges.
 
 ### 🤝 Let's Connect!
 
