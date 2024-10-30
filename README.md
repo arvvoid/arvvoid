@@ -7,10 +7,15 @@ Beyond the code, I’m a Capoeira instructor, DIY enthusiast, and gamer. From sc
 
 🔗 [Discover more about my journey](https://lukavoid.xyz)
 
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&count_private=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api/top-langs/?username=arvvoid&layout=compact&count_private=true&theme=merko" />
+</p>
+
 ### 🤝 Let's Connect!
 
 I'm open to non-commercial collaborations. Reach out if you’re interested!
 
 For commercial, white-label, and B2B partnerships, [L.D.T Ltd](https://github.com/l-d-t) offers custom solutions. Visit [ldt.hr](https://ldt.hr) for more details on professional collaborations.
-
-![Luka's GitHub stats](https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&theme=default)
