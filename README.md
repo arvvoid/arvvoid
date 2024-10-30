@@ -10,7 +10,7 @@ Beyond the code, I’m a Capoeira instructor, DIY enthusiast, and gamer. From sc
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&count_private=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&hide_title=true&rank_icon=github&count_private=true&theme=merko" />
 </p>
 
 # 🛠️ Technologies & Languages
