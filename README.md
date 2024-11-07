@@ -19,7 +19,7 @@ With over 20 years of experience, I’ve developed proficiency across a wide arr
 
 ### 💻 Programming Languages
 - **Daily Use**: C, Zig, Go, PHP, Shell Scripts, JavaScript/TypeScript
-- **Proficient**: Python, C++, C# (.NET), Odin, Rust, Swift, BASIC, Pascal/Delphi
+- **Proficient**: Python, C++, C# (.NET), Java, Odin, Rust, Swift, BASIC, Pascal/Delphi
 
 ### 🌐 Other
 - **Cloud & Infrastructure Management**: 
