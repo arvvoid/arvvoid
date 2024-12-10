@@ -15,21 +15,23 @@ Beyond the code, I’m a Capoeira instructor, DIY enthusiast, and gamer. From sc
 
 # 🛠️ Technologies & Languages
 
-With over 20 years of experience, I’ve developed proficiency across a wide array of languages, frameworks, and infrastructure technologies. Here’s a snapshot of my primary skill set:
+With over 20 years of professional experience—and a lifelong passion for programming that began in elementary school on an Amiga 500—I’ve honed expertise across a diverse range of languages, frameworks, and infrastructure technologies. Below is an overview of my core skill set:
 
 ### 💻 Programming Languages
 - **Daily Use**: C, Zig, Go, PHP, Shell Scripts, JavaScript/TypeScript
-- **Proficient**: Python, C++, C# (.NET), Java, Odin, Rust, Swift, BASIC, Pascal/Delphi
+- **Proficient**: Python, C++, C# (.NET), Java, Odin, Rust, Swift
+- **Historic**: BASIC, Pascal/Delphi, AmigaBASIC, Assembly (68000)
+
+#### 🗄️ **Databases and Data Systems**
+- **Daily Use**: PostgreSQL, SQLite, MySQL/MariaDB
+- **Proficient**: MongoDB, Redis, Cassandra/Hydra, Elasticsearch, MS SQL, Oracle Database.
 
 ### 🌐 Other
 - **Cloud & Infrastructure Management**: 
   - **Cloud**: Extensive experience managing cloud and hybrid infrastructures
   - **Tools**: Custom solutions and automation for optimized workflows
-
-### 🖥️ Operating Systems
-- **Robust Knowledge**: GNU/Linux, Windows
-- **Proficiency**: macOS
-  
+  - **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD
+  - **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible
 ---
 
 This diverse skill set allows me to seamlessly bridge development and infrastructure, creating scalable, maintainable, and robust solutions for a variety of technical challenges.
