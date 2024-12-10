@@ -30,7 +30,7 @@ With over 20 years of professional experience—and a lifelong passion for progr
 - **Cloud & Infrastructure Management**: 
   - **Cloud**: Extensive experience managing cloud and hybrid infrastructures
   - **Tools**: Custom solutions and automation for optimized workflows
-  - **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD
+  - **CI/CD**: GitHub Actions, GitLab CI/CD, Jenkins
   - **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible
 ---
 
