@@ -8,15 +8,6 @@ I’m also co-founder of [L.D.T.](https://ldt.hr), a small and versatile technol
 
 🔗 [lukavoid.xyz](https://lukavoid.xyz)
 
----
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats-arvvoid.vercel.app/api?username=arvvoid&show_icons=true&hide_title=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&count_private=true&theme=merko"
-  />
-</p>
-
 ## Technologies
 
 **Languages:** Go, PHP, C, Zig, JavaScript, TypeScript, Shell, Python, C++, C#, Java, Rust
